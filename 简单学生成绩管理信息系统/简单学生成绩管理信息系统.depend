@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1560600921 source:d:\code_works\code_blocks\简单学生成绩管理信息系统\main.c
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	<stdbool.h>
+

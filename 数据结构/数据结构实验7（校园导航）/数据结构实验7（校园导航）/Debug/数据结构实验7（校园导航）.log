@@ -1,0 +1,83 @@
+﻿  Main.cpp
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(75): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(75): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(75): error C2238: 意外的标记位于“;”之前
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(76): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(76): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(76): error C2238: 意外的标记位于“;”之前
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(77): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(77): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(77): error C2238: 意外的标记位于“;”之前
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(85): error C2065: “cin”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(88): error C2065: “cin”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(89): error C2065: “importantPoints”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(93): error C2065: “cin”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(94): error C2065: “_allEdge”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(97): error C2065: “importantPoints”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(98): error C2065: “importantPoints”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(99): error C2065: “queue”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(99): error C2275: “Map::_Edge”: 将此类型用作表达式非法
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(99): error C2065: “r”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(100): error C2065: “importantPoints”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(101): error C2065: “vector”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(101): error C2275: “Map::_Edge”: 将此类型用作表达式非法
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(101): error C2039: “iterator”: 不是“`global namespace'”的成员
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(101): error C2065: “iterator”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(101): error C2146: 语法错误: 缺少“;”(在标识符“it”的前面)
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(101): error C2143: 语法错误: 缺少“;”(在“=”的前面)
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(101): error C2143: 语法错误: 缺少“)”(在“=”的前面)
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(101): error C2059: 语法错误:“=”
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(101): error C2065: “it”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(101): error C2065: “_allEdge”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(101): error C2059: 语法错误:“)”
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(102): error C2065: “it”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(103): error C2065: “r”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(103): error C2065: “it”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(104): error C2065: “it”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(104): error C2065: “_allEdge”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(107): error C2065: “it”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(110): error C2065: “r”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(111): error C2065: “r”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(111): error C2512: “Map::_Edge”: 没有合适的默认构造函数可用
+  c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(7): note: 参见“Map::_Edge”的声明
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(112): error C2065: “r”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(113): error C2065: “vector”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(113): error C2062: 意外的类型“int”
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(113): error C2039: “iterator”: 不是“`global namespace'”的成员
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(116): error C2065: “it”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(116): error C2065: “importantPoints”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(116): error C3861: “find”: 找不到标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(120): error C2065: “it”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(120): error C2065: “importantPoints”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(120): error C3861: “find”: 找不到标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(123): error C2065: “it”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(123): error C2065: “importantPoints”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(124): error C2065: “importantTreeEdge”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(127): error C2065: “vector”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(127): error C2275: “Map::_Edge”: 将此类型用作表达式非法
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(127): error C2039: “iterator”: 不是“`global namespace'”的成员
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(127): error C2065: “iterator”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(127): error C2146: 语法错误: 缺少“;”(在标识符“it”的前面)
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(127): error C2143: 语法错误: 缺少“;”(在“=”的前面)
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(127): error C2143: 语法错误: 缺少“)”(在“=”的前面)
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(127): error C2059: 语法错误:“=”
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(127): error C2065: “it”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(127): error C2065: “_allEdge”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(127): error C2059: 语法错误:“)”
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(128): error C2065: “it”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(129): error C2065: “it”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(130): error C2065: “it”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(131): error C2065: “r”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(131): error C2065: “it”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(132): error C2065: “it”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(132): error C2065: “_allEdge”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(134): error C2065: “it”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(135): error C2065: “it”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(136): error C2065: “it”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(137): error C2065: “r”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(137): error C2065: “it”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(138): error C2065: “it”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(138): error C2065: “_allEdge”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(141): error C2065: “it”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(146): error C2065: “importantPoints”: 未声明的标识符
+c:\users\vickers jian\source\repos\数据结构实验7（校园导航）\数据结构实验7（校园导航）\main.cpp(147): error C2065: “importantPoints”: 未声明的标识符

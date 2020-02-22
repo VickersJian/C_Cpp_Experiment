@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\vickers jian\source\repos\数据结构实验2（自建栈）\数据结构实验2（自建栈）\mystack.h(42): warning C4715: “MyStack<Dot>::pop”: 不是所有的控件路径都返回值
+c:\users\vickers jian\source\repos\数据结构实验2（自建栈）\数据结构实验2（自建栈）\mystack.h(48): warning C4715: “MyStack<Dot>::top”: 不是所有的控件路径都返回值
+c:\users\vickers jian\source\repos\数据结构实验2（自建栈）\数据结构实验2（自建栈）\mystack.h(48): warning C4715: “MyStack<wideDot *>::top”: 不是所有的控件路径都返回值
+c:\users\vickers jian\source\repos\数据结构实验2（自建栈）\数据结构实验2（自建栈）\mystack.h(42): warning C4715: “MyStack<wideDot *>::pop”: 不是所有的控件路径都返回值
+  数据结构实验2（自建栈）.vcxproj -> C:\Users\Vickers Jian\source\repos\数据结构实验2（自建栈）\Debug\数据结构实验2（自建栈）.exe

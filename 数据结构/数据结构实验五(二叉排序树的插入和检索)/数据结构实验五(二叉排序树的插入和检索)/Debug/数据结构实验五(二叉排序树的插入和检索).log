@@ -1,0 +1,7 @@
+﻿  educoder.cpp
+c:\users\vickers jian\source\repos\数据结构实验五(二叉排序树的插入和检索)\数据结构实验五(二叉排序树的插入和检索)\educoder.cpp(51): error C2144: 语法错误:“void”的前面应有“;”
+c:\users\vickers jian\source\repos\数据结构实验五(二叉排序树的插入和检索)\数据结构实验五(二叉排序树的插入和检索)\educoder.cpp(51): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\vickers jian\source\repos\数据结构实验五(二叉排序树的插入和检索)\数据结构实验五(二叉排序树的插入和检索)\educoder.cpp(57): error C2059: 语法错误:“)”
+c:\users\vickers jian\source\repos\数据结构实验五(二叉排序树的插入和检索)\数据结构实验五(二叉排序树的插入和检索)\educoder.cpp(61): error C2059: 语法错误:“)”
+  Main.cpp
+  正在生成代码...

@@ -1,0 +1,7 @@
+﻿  analysis.cpp
+c:\users\vickers jian\source\repos\城市规划\城市规划\analysis.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\vickers jian\source\repos\城市规划\城市规划\analysis.cpp(40): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\vickers jian\source\repos\城市规划\城市规划\analysis.cpp(45): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\vickers jian\source\repos\城市规划\城市规划\analysis.cpp(52): warning C4305: “参数”: 从“const __int64”到“int”截断
+c:\users\vickers jian\source\repos\城市规划\城市规划\analysis.cpp(52): warning C4309: “参数”: 截断常量值
+  城市规划.vcxproj -> C:\Users\Vickers Jian\source\repos\城市规划\Debug\城市规划.exe
